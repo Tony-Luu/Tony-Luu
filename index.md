@@ -40,7 +40,7 @@ Unity WebGL Player: [Link](https://tony-Luu.github.io/Lemuria/)
 
 Source Code: [Link](https://github.com/Tony-Luu/Lemuria-Sourcecode)
 
-Link: [Link]()
+Link: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Lemuria%20Problems%20and%20Solutions.md)
 
 This is a 2D adventure game where the player has to explore around the world to collect rare treasures and collectibles. The challenges contained in this game are grid-based. This project was made by four people: Jane Perry (worked on the 2D art style, environments and characters), Jason Wong (created the 2D icons for the nodes), David Nguyen (coded the procedural generation of the node map and event manager) and Tony Luu. This game was intended for Android devices as well as smartphones. Click on the link above to read more about how I devised solutions for the problems I have encountered.
 
