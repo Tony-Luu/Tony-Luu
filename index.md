@@ -21,6 +21,7 @@ Link: [Link](http://tlgamesportfolio.blogspot.co.uk/p/infinite-defender.html)
 Infinite Defender is a throwback to the old-fashioned arcade space-shooting games with a twist. Enemy waves are procedurally-generated so they spawn differently every time you play it. The waves continuously spawn until the player dies so survive as long as you can and earn a high score. This 2D project was made solo and it is intended for the Android devices and smartphones. This game involved a lot of design decisions and iterations as well as learning how to use maths functions to create a sine wave pattern movement and the circular motion for the enemy spaceships. The design iterations mostly consisted of gameplay rebalances and player experiences. Click on the link above this description to read on further.
 
 
+
 ## Lemuria: Land of Lost Treasures
 Game Engine: Unity
 
@@ -44,6 +45,7 @@ Link: [Link]()
 This is a 2D adventure game where the player has to explore around the world to collect rare treasures and collectibles. The challenges contained in this game are grid-based. This project was made by four people: Jane Perry (worked on the 2D art style, environments and characters), Jason Wong (created the 2D icons for the nodes), David Nguyen (coded the procedural generation of the node map and event manager) and Tony Luu. This game was intended for Android devices as well as smartphones. Click on the link above to read more about how I devised solutions for the problems I have encountered.
 
 
+
 ## Nanobots
 Game Engine: Unity
 
@@ -56,7 +58,7 @@ Date of completion: 12/1/15
 <video controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
   <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Nanobots%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
   Your browser does not support HTML5 video.
-</video><br />
+</video>
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/)
 
@@ -65,6 +67,7 @@ Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode)
 Walkthrough: [Link]()
 
 Nanobots is a third-person puzzle-platforming game where the player has to traverse through the environment using nanobots as well as discovering a way to navigate through the areas. The idea of using particle effects as nanobots came from one of the lessons I have previously had during the course. This project was made as my coursework for one of my modules. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, sound, etc in an unconventional or surreal way. That's how the idea of using particle effects as nanobots came to life because nanobots can be used in a sci-fi setting and possess various effects and functions. The walkthrough for this game is at the link above this description.
+
 
 
 ## Lunar Odyssey
