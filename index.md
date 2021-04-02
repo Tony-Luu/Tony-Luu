@@ -7,7 +7,7 @@ Platform: Android devices
 
 Date of completion: May 2015
 
-<video controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="820">
+<video controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="825">
   <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Lunar%20Odyssey%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
   Your browser does not support HTML5 video.
 </video>
