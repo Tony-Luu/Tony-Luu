@@ -64,7 +64,7 @@ Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/)
 
 Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode)
 
-Walkthrough: [Link]()
+Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md)
 
 Nanobots is a third-person puzzle-platforming game where the player has to traverse through the environment using nanobots as well as discovering a way to navigate through the areas. The idea of using particle effects as nanobots came from one of the lessons I have previously had during the course. This project was made as my coursework for one of my modules. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, sound, etc in an unconventional or surreal way. That's how the idea of using particle effects as nanobots came to life because nanobots can be used in a sci-fi setting and possess various effects and functions. The walkthrough for this game is at the link above this description.
 
