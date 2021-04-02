@@ -1,4 +1,4 @@
-Walkthrough
+## Walkthrough
 
 The player starts with three functions for the nanobots: Devour, Hook, and Shield. The destructible objects in front of the player at the start allows the player to test and 
 see which of those nanobot functions remove the obstacles. This would teach the player which nanobot function will remove destructible obstacles later in the game. In the middle 
