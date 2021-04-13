@@ -49,7 +49,7 @@ Date of revision: 11/6/18
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Stealth-Game-Artefact/)\
 Source Code: [Link](https://github.com/tony-luu/Stealth-Game-Artefact-Scripts)\
-Problems and Solutions: [Link](https://tlgamesportfolio.blogspot.com/p/stealth-game-artefact.html)
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Stealth%20Game%20Artefact%20Problems%20and%20Solutions.md)
 
 The Stealth Game Artefact is a stealth game in isometric view that was made for a dissertation project to investigate how player behaviors and choices were affected by both standard and dynamic AI. This project was made as a dissertation artefact and the question was "How does standard and dynamic AI affect player performance and behavior in a stealth game?". This was to test how the players actions and behaviors were affected and influenced by the dynamic AI and how it was compared to standard AI. This type of AI can identify what the player's item and ability are and counters them, effectively making it useless. Check the link above this description to read more about how I solved a player detection and raycast problem.
 
