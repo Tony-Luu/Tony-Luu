@@ -12,9 +12,10 @@ Date of revision: 17/5/21
 </video>
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/)\
-Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode)
+Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode)\
 Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md)
 
+Calor was a game project made during the Winter GameJam 2020 from a Discord community called Game Dev London which started as a game dev meetup in London many years ago. This gamejam lasted from 27th November to 6th December so the event lasted for an entire week and approximately had 40 hours to create a game. The theme for this was called "Warmth" so I teamed up in a group of 6 (including myself) to brainstorm various ideas associated with the word to generate interesting ideas. My responsbility in the team was to implement gameplay mechanics, controls, and all of the art and sound assets my team created for this game.
 
 
 ## Infinite Defender
