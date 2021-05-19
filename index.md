@@ -13,7 +13,7 @@ Date of revision: 17/5/21
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/)\
 Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode)
-
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md)
 
 
 
