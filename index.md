@@ -1,3 +1,18 @@
+## Calor
+Game Engine: Unity\
+Language: C#\
+Platform: PC\
+Duration: 27/11/20 - 6/12/20\
+Date of completion: 6/12/20
+Date of revision: 17/5/21
+
+<video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
+  <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Calor%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
+  Your browser does not support HTML5 video.
+</video>
+
+Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/)\
+Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode)\
 
 ## Infinite Defender
 Game Engine: Unity\
