@@ -12,8 +12,8 @@ Date of revision: 17/5/21
 </video>
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/){:target="_blank"}\
-Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode)\
-Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md)
+Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode){:target="_blank"}\
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md){:target="_blank"}
 
 Calor was a game project made during the Winter GameJam 2020 from a Discord community called Game Dev London which started as a game dev meetup in London many years ago. This gamejam lasted from 27th November to 6th December so the event lasted for an entire week and approximately had 40 hours to create a game. The theme for this was called "Warmth" so I teamed up in a group of 6 (including myself) to brainstorm various ideas associated with the word to generate interesting ideas. My responsbility in the team was to implement gameplay mechanics, controls, and all of the art and sound assets my team created for this game.
 
@@ -29,9 +29,9 @@ Date of publication: 7/7/17
   Your browser does not support HTML5 video.
 </video>
 
-Unity WebGL Player: [Link](https://Tony-Luu.github.io/Infinite-Defender/)\
-Source Code: [Link](https://github.com/Tony-Luu/Infinite-Defender-Sourcecode)\
-Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Infinite%20Defender%20Problems%20and%20Solutions.md)
+Unity WebGL Player: [Link](https://Tony-Luu.github.io/Infinite-Defender/){:target="_blank"}\
+Source Code: [Link](https://github.com/Tony-Luu/Infinite-Defender-Sourcecode){:target="_blank"}\
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Infinite%20Defender%20Problems%20and%20Solutions.md){:target="_blank"}
 
 Infinite Defender is a throwback to the old-fashioned arcade space-shooting games with a twist. Enemy waves are procedurally-generated so they spawn differently every time you play it. The waves continuously spawn until the player dies so survive as long as you can and earn a high score. This 2D project was made solo and it is intended for the Android devices and smartphones. This game involved a lot of design decisions and iterations as well as learning how to use maths functions to create a sine wave pattern movement and the circular motion for the enemy spaceships. The design iterations mostly consisted of gameplay rebalances and player experiences. Click on the link above this description to read on further.
 
@@ -66,9 +66,9 @@ Date of revision: 11/6/18
   Your browser does not support HTML5 video.
 </video>
 
-Unity WebGL Player: [Link](https://tony-luu.github.io/Stealth-Game-Artefact/)\
-Source Code: [Link](https://github.com/tony-luu/Stealth-Game-Artefact-Scripts)\
-Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Stealth%20Game%20Artefact%20Problems%20and%20Solutions.md)
+Unity WebGL Player: [Link](https://tony-luu.github.io/Stealth-Game-Artefact/){:target="_blank"}\
+Source Code: [Link](https://github.com/tony-luu/Stealth-Game-Artefact-Scripts){:target="_blank"}\
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Stealth%20Game%20Artefact%20Problems%20and%20Solutions.md){:target="_blank"}
 
 The Stealth Game Artefact is a stealth game in isometric view that was made for a dissertation project to investigate how player behaviors and choices were affected by both standard and dynamic AI. This project was made as a dissertation artefact and the question was "How does standard and dynamic AI affect player performance and behavior in a stealth game?". This was to test how the players actions and behaviors were affected and influenced by the dynamic AI and how it was compared to standard AI. This type of AI can identify what the player's item and ability are and counters them, effectively making it useless. Check the link above this description to read more about how I solved a player detection and raycast problem.
 
@@ -85,9 +85,9 @@ Date of completion: 12/1/15
   Your browser does not support HTML5 video.
 </video>
 
-Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/)\
-Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode)\
-Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md)
+Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/){:target="_blank"}\
+Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode){:target="_blank"}\
+Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md){:target="_blank"}
 
 Nanobots is a third-person puzzle-platforming game where the player has to traverse through the environment using nanobots as well as discovering a way to navigate through the areas. The idea of using particle effects as nanobots came from one of the lessons I have previously had during the course. This project was made as my coursework for one of my modules. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, sound, etc in an unconventional or surreal way. That's how the idea of using particle effects as nanobots came to life because nanobots can be used in a sci-fi setting and possess various effects and functions. The walkthrough for this game is at the link above this description.
 
@@ -104,8 +104,8 @@ Date of completion: May 2015
   Your browser does not support HTML5 video.
 </video>
 
-Unity WebGL Player: [Link](https://tony-luu.github.io/Lunar-Odyssey/)\
-Source Code: [Link](https://github.com/Tony-Luu/Lunar-Odyssey-Sourcecode)
+Unity WebGL Player: [Link](https://tony-luu.github.io/Lunar-Odyssey/){:target="_blank"}\
+Source Code: [Link](https://github.com/Tony-Luu/Lunar-Odyssey-Sourcecode){:target="_blank"}
 
 This project was created for a group project during university. Lunar Odyssey is a 2D side-scrolling endless survival game where the player has to avoid obstacles generated by the Greek gods. The controls for the game is using the mouse to drag the moon vertically up and down to control the tide of the waves. Dragging the boat horizontally from left to right would move the boat. The boat can only move to the right until the center of the screen. The player has to manipulate the size of the moon to control the level of the tide and move the ship horizontally in order to survive as long as possible. Along the way of traversing through the seas, there are shipwrecks encountered in the game where the player has to save as much people as possible to attempt to gain a high score.
 
