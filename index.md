@@ -1,10 +1,23 @@
+## Polar
+Game Engine: Unity\
+Language: C#\
+Platform: PC\
+Duration: 21/2/21 - 28/2/21\
+
+<video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
+  <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Polar%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
+  Your browser does not support HTML5 video.
+</video>
+
+Source Code: [Link](https://github.com/Tony-Luu/Polar-Sourcecode){:target="_blank"}\
+
+Polar is a 3D game project made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. This gamejam lasted from 21st February to 28th February. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of another programmer, artist, designer, and sound designer. My responsibility within the team was to implement the various character abilities.
+
 ## Calor
 Game Engine: Unity\
 Language: C#\
 Platform: PC\
 Duration: 27/11/20 - 6/12/20\
-Date of completion: 6/12/20\
-Date of revision: 17/5/21
 
 <video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
   <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Calor%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
@@ -15,7 +28,7 @@ Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode){:target="_blank"}\
 Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md){:target="_blank"}
 
-Calor was a game project made during the Winter GameJam 2020 from a Discord community called Game Dev London which started as a game dev meetup in London many years ago. This gamejam lasted from 27th November to 6th December so the event lasted for an entire week and approximately had 40 hours to create a game. The theme for this was called "Warmth" so I teamed up in a group of 6 (including myself) to brainstorm various ideas associated with the word to generate interesting ideas. My responsbility in the team was to implement gameplay mechanics, controls, and all of the art and sound assets my team created for this game.
+Calor is a 2D game project made during the Winter GameJam 2020 hosted from a Discord community called Game Dev London which started as a games development meetup in London many years ago. This gamejam lasted from 27th November to 6th December so the event lasted for an entire week and approximately had 40 hours to create a game. The theme for this was called "Warmth" so I teamed up in a group of 6 (including myself) to brainstorm various ideas associated with the word to generate interesting ideas. My responsbility in the team was to implement gameplay mechanics, controls, and include all of the art and sound assets my team created for this game.
 
 
 ## Infinite Defender
