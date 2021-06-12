@@ -9,11 +9,11 @@ Duration: 21/2/21 - 28/2/21
   Your browser does not support HTML5 video.
 </video>
 
-Download Link: [Link](https://www.dropbox.com/s/but0b7fma4zblec/Polar%20PC%20Build.rar?dl=0)\
+Download: [Link](https://www.dropbox.com/s/but0b7fma4zblec/Polar%20PC%20Build.rar?dl=0)\
 Source Code: [Link](https://github.com/Tony-Luu/Polar-Sourcecode){:target="_blank"}\
-Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Polar%20Problems%20and%20Solutions.md){:target="_blank"}\
+Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Polar%20Problems%20and%20Solutions.md){:target="_blank"}
 
-#### Note: Due to the project using Wwise Unity, it is incompatible with WebGL therefore there is no WebGL build so a download link containing a PC build is provided for those who are interested in playing the game.
+#### Note: Due to the project using Wwise Unity, it is incompatible with WebGL so therefore there is no WebGL build. Instead, a download link containing a PC build is provided for those who are interested in playing the game.
 
 Polar is a 3D game project made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. This gamejam lasted from 21st February to 28th February. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of another programmer, artist, designer, and sound designer. My responsibility within the team was to implement the various character abilities.
 
