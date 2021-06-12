@@ -9,7 +9,7 @@ Duration: 21/2/21 - 28/2/21
   Your browser does not support HTML5 video.
 </video>
 
-Source Code: [Link](https://github.com/Tony-Luu/Polar-Sourcecode){:target="_blank"}\
+Source Code: [Link](https://github.com/Tony-Luu/Polar-Sourcecode){:target="_blank"}
 
 Polar is a 3D game project made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. This gamejam lasted from 21st February to 28th February. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of another programmer, artist, designer, and sound designer. My responsibility within the team was to implement the various character abilities.
 
