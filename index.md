@@ -2,7 +2,7 @@
 Game Engine: Unity\
 Language: C#\
 Platform: PC\
-Duration: 21/2/21 - 28/2/21\
+Duration: 21/2/21 - 28/2/21
 
 <video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
   <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Polar%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
@@ -17,7 +17,7 @@ Polar is a 3D game project made during the Games Parade Spring 2021 hosted from 
 Game Engine: Unity\
 Language: C#\
 Platform: PC\
-Duration: 27/11/20 - 6/12/20\
+Duration: 27/11/20 - 6/12/20
 
 <video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
   <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Calor%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
