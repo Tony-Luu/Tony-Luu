@@ -1,5 +1,5 @@
 <p align="center">
-  About Me
+  <b>About Me</b>
 </p>
 
 My passion for gaming first began since childhood as the first few games I have ever played
