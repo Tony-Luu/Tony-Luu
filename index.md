@@ -1,4 +1,4 @@
-## <p align="center">About Me</p>
+## About Me
 My passion for gaming first began since childhood as the first few games I have ever played
 were Pokemon Gold, Final Fantasy 4, and Age of Empires. From that point onwards, it has
 shaped my tastes for those genres. I eventually discovered free hobbyist game creation
