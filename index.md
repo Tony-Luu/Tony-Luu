@@ -1,3 +1,12 @@
+## <p align="center">About Me</p>
+My passion for gaming first began since childhood as the first few games I have ever played
+were Pokemon Gold, Final Fantasy 4, and Age of Empires. From that point onwards, it has
+shaped my tastes for those genres. I eventually discovered free hobbyist game creation
+software such as RPG Maker 2000 and Game Maker. This got me into games development
+because I have thoroughly enjoyed the freedom and expression of creating unique gameplay
+experiences.
+
+
 ## Polar
 Game Engine: Unity\
 Language: C#\
