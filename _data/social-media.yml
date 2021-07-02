@@ -1,8 +1,8 @@
 linkedin:
-  id: 'Tony Luu'
-  href: 'https://www.linkedin.com/in/tony-luu-6677b94a/'
+  id: 'tony-luu-6677b94a/'
+  href: 'https://www.linkedin.com/in/'
   title: 'LinkedIn'
-  fa-icon: 'fa-brands fa-linkedin'
+  fa-icon: 'fa-linkedin'
   
 email:
   id: 'tonyluu@hotmail.co.uk'
