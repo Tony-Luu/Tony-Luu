@@ -8,7 +8,6 @@ software such as RPG Maker 2000 and Game Maker. This got me into games developme
 because I have thoroughly enjoyed the freedom and expression of creating unique gameplay
 experiences.
 
-<br>
 <p align="center">
   <b>Contacts</b>
 </p>
