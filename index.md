@@ -11,6 +11,8 @@ experiences.
 <p align="center">
   <b>Contacts</b>
 </p>
+{% include social-media-links.html %}
+
 
 ## Polar
 Game Engine: Unity\
