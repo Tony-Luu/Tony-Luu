@@ -9,15 +9,12 @@ because I have thoroughly enjoyed the freedom and expression of creating unique 
 experiences.
 
 <br>
-<br>
 <p align="center">
   <b>Contacts</b>
 </p>
 
 {% include index.html %}
 {% include social-media-links.html %}
-
-<br>
 <br>
 
 ## Polar
