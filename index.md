@@ -8,16 +8,6 @@ software such as RPG Maker 2000 and Game Maker. This got me into games developme
 because I have thoroughly enjoyed the freedom and expression of creating unique gameplay
 experiences.
 
-<html>
-  <head>
-    <script src="https://kit.fontawesome.com/218e55e4a8.js" crossorigin="anonymous"></script>
-  </head>
-  
-  <body>
-    <i class="fas fa-envelope-square"></i>
-  </body>
-</html>
-
 {% include social-media-links.html %}
 
 ## Polar
