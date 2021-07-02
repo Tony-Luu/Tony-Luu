@@ -1,8 +1,4 @@
 theme: jekyll-theme-cayman
 title: Tony Luu
-minima:
-  social_links:
-    linkedin: https://www.linkedin.com/in/tony-luu-6677b94a/
-    
 github:
   is_project_page: false
