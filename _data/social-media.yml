@@ -1,7 +1,7 @@
 linkedin:
   id: 'tony-luu-6677b94a/'
   href: 'https://www.linkedin.com/in/'
-  title: 'LinkedIn'
+  title: 'LinkedIn Profile'
   fa-icon: 'fa-linkedin'
   
 CV Word:
@@ -19,5 +19,5 @@ CV PDF:
 email:
   id: 'tonyluu@hotmail.co.uk'
   href: 'mailto:'
-  title: 'Email'
+  title: 'E-mail'
   fa-icon: 'fa-envelope-square'
