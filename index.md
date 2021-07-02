@@ -1,4 +1,3 @@
-<br>
 <p align="center">
   <b>Contacts</b>
 </p>
