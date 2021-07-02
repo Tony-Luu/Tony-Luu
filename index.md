@@ -1,8 +1,7 @@
 <p align="center">
   <b>About Me</b>
 </p>
-
-My passion for gaming first began since childhood as the first few games I have ever played
+I'm a Computer Games Development graduate from University of East London with a passion for games development and programming. This portfolio demonstrates a variety of gameplay features implemented in these projects to generate interesting gameplay. My passion for gaming first began since childhood as the first few games I have ever played
 were Pokemon Gold, Final Fantasy 4, and Age of Empires. From that point onwards, it has
 shaped my tastes for those genres. I eventually discovered free hobbyist game creation
 software such as RPG Maker 2000 and Game Maker. This got me into games development
