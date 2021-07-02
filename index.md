@@ -9,13 +9,12 @@ because I have thoroughly enjoyed the freedom and expression of creating unique 
 experiences.
 
 <br>
-<p align = "center">
+<p align="center">
   <b>Contacts</b>
 </p>
-
 {% include index.html %}
-
 {% include social-media-links.html %}
+
 
 ## Polar
 Game Engine: Unity\
