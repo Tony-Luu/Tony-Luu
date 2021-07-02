@@ -4,6 +4,12 @@ linkedin:
   title: 'LinkedIn Profile'
   fa-icon: 'fa-linkedin'
   
+email:
+  id: 'tonyluu@hotmail.co.uk'
+  href: 'mailto:'
+  title: 'E-mail'
+  fa-icon: 'fa-envelope-square'
+  
 CV Word:
   id: 'file/d/0B3TZPZcrp302R0JYNFp6MDJWUVk/view?resourcekey=0-78HGuIGjL__nkXL57B1eKQ'
   href: 'https://drive.google.com/'
@@ -15,9 +21,3 @@ CV PDF:
   href: 'https://drive.google.com/'
   title: 'Tony Luu CV PDF'
   fa-icon: 'fa-file-pdf'
-  
-email:
-  id: 'tonyluu@hotmail.co.uk'
-  href: 'mailto:'
-  title: 'E-mail'
-  fa-icon: 'fa-envelope-square'
