@@ -69,7 +69,9 @@ Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/
 
 Infinite Defender is a throwback to the old-fashioned arcade space-shooting games with a twist. Enemy waves are procedurally-generated so they spawn differently every time you play it. The waves continuously spawn until the player dies so survive as long as you can and earn a high score. This 2D project was made solo and it is intended for the Android devices and smartphones. This game involved a lot of design decisions and iterations as well as learning how to use maths functions to create a sine wave pattern movement and the circular motion for the enemy spaceships. The design iterations mostly consisted of gameplay rebalances and player experiences. Click on the link above this description to read on further.
 
-<a href='https://play.google.com/store/apps/details?id=com.None.InfiniteDefender&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
+<p align="center">
+  <a href='https://play.google.com/store/apps/details?id=com.None.InfiniteDefender&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' target="_blank" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
+</p>
 
 
 ## Lemuria: Land of Lost Treasures
