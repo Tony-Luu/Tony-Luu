@@ -91,24 +91,6 @@ Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/
 
 This is a 2D adventure game where the player has to explore around the world to collect rare treasures and collectibles. The challenges contained in this game are grid-based. This project was made by four people: Jane Perry (worked on the 2D art style, environments and characters), Jason Wong (created the 2D icons for the nodes), David Nguyen (coded the procedural generation of the node map and event manager) and Tony Luu. This game was intended for Android devices as well as smartphones. Click on the link above to read more about how I devised solutions for the problems I have encountered.
 
-## Stealth Game Artefact
-Game Engine: Unity\
-Language: C#\
-Platform: PC\
-Date of completion: May 2015\
-Date of revision: 11/6/18
-
-<video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
-  <source src="https://github.com/uel-1110542/HTML5-Videos/blob/master/Stealth%20Game%20Artefact%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
-  Your browser does not support HTML5 video.
-</video>
-
-Unity WebGL Player: [Link](https://tony-luu.github.io/Stealth-Game-Artefact/){:target="_blank"}\
-Source Code: [Link](https://github.com/tony-luu/Stealth-Game-Artefact-Scripts){:target="_blank"}\
-Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Stealth%20Game%20Artefact%20Problems%20and%20Solutions.md){:target="_blank"}
-
-The Stealth Game Artefact is a stealth game in isometric view that was made for a dissertation project to investigate how player behaviors and choices were affected by both standard and dynamic AI. This project was made as a dissertation artefact and the question was "How does standard and dynamic AI affect player performance and behavior in a stealth game?". This was to test how the players actions and behaviors were affected and influenced by the dynamic AI and how it was compared to standard AI. This type of AI can identify what the player's item and ability are and counters them, effectively making it useless. Check the link above this description to read more about how I solved a player detection and raycast problem.
-
 
 
 ## Nanobots
