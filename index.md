@@ -108,8 +108,15 @@ Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/){:target="_blank
 Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode){:target="_blank"}\
 Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md){:target="_blank"}
 
-Nanobots is a third-person puzzle-platforming game where the player has to traverse through the environment using nanobots as well as discovering a way to navigate through the areas. The idea of using particle effects as nanobots came from one of the lessons I have previously had during the course. This project was made as my coursework for one of my modules. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, sound, etc in an unconventional or surreal way. That's how the idea of using particle effects as nanobots came to life because nanobots can be used in a sci-fi setting and possess various effects and functions. The walkthrough for this game is at the link above this description.
+This project was made as my coursework for one of my modules. Nanobots is a 3rd person puzzle platforming game where the player has to traverse through the environment using nanobots. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, and sound in an unconventional way. I mainly used particle effects to represent the different functions of nanobots. The walkthrough for this game is at the link above this description.
 
+- At 00:03, I used a particle effect to collide with the destructible obstacle to reduce the size of it until they are destroyed.
+
+- At 00:48, the particle effect I have used has a different function called "Hook" which lets the player pull towards the hook. The cube object can be picked up and placed on buttons as a weight, block laser particles or used as an extra platform.
+
+- At 2:31, I used textures to implement this memory puzzle which randomly creates a sequence of flashing colours which the player must click on the correct sequence to progress through. The material for the flashing textures uses a normal map, a height map, and illumin properties to create the sequence of flashing colours.
+
+- At 2:52, the torch light uses a raycast that hits the invisible platform on the ground which decreases the transparency of the material on the platform.
 
 
 ## Lunar Odyssey
@@ -126,7 +133,7 @@ Date of completion: May 2015
 Unity WebGL Player: [Link](https://tony-luu.github.io/Lunar-Odyssey/){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Lunar-Odyssey-Sourcecode){:target="_blank"}
 
-This game was created by 7 members for a group project during university. Lunar Odyssey is a 2D endless survival game where the player has to avoid obstacles created by the Greek gods. Use the mouse to drag the moon vertically up and down to control the tide of the waves and drag the boat left to right would move the boat horizontally. I have used what I have learned from the module called Games Studio to implement obstacles by using Unity components such as:
+This game was created by 7 members for a group project during university. Lunar Odyssey is a 2D endless survival game where the player has to avoid obstacles created by the Greek gods. Use the mouse to drag the moon vertically up and down to control the ocean waves and drag the boat left to right would move the boat horizontally. I have used what I have learned from the module called Games Studio to implement obstacles by using Unity components such as:
 
 - The volcano spewing up fiery rocks at 0:49 had the rigidbody component attached to it to fall from the sky and collide with the ship which causes damage if it hits.
 
