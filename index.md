@@ -126,6 +126,12 @@ Date of completion: May 2015
 Unity WebGL Player: [Link](https://tony-luu.github.io/Lunar-Odyssey/){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Lunar-Odyssey-Sourcecode){:target="_blank"}
 
-This game was created by 7 members for a group project during university. Lunar Odyssey is a 2D side-scrolling endless survival game where the player has to avoid obstacles created by the Greek gods. Use the mouse to drag the moon vertically up and down to control the tide of the waves and drag the boat left to right would move the boat horizontally. I have used what I have learned from the module called Games Studio to implement gameplay such as:
+This game was created by 7 members for a group project during university. Lunar Odyssey is a 2D endless survival game where the player has to avoid obstacles created by the Greek gods. Use the mouse to drag the moon vertically up and down to control the tide of the waves and drag the boat left to right would move the boat horizontally. I have used what I have learned from the module called Games Studio to implement obstacles by using Unity components such as:
 
-- A cyclops throwing a boulder at 00:58 which I used a rigidbody component to animate the boulder being picked up and thrown at the boat.
+- The volcano spewing up fiery rocks at 0:49 had the rigidbody component attached to it to fall from the sky and collide with the ship which causes damage if it hits.
+
+- The cyclops picking up the boulder and throwing it above himself at 1:40 uses the rigidbody component to animate the boulder being picked up and thrown at the ship would collide with the ship if it hits.
+
+- The kraken's tentacle attack at 2:27 has both a collider and a rigidbody component which can cause damage if the tentacles hit the ship.
+
+- The lightning cloud at spawned at 3:18 has a particle effect with a lightning texture attached to it which can collide with the ship.
