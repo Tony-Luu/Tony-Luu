@@ -31,7 +31,19 @@ Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/
 
 #### Note: Due to the project using Wwise Unity, it is incompatible with WebGL so therefore there is no WebGL build. Instead, a download link containing a PC build is provided for those who are interested in playing the game.
 
-Polar is a 3D game project made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. This gamejam lasted from 21st February to 28th February. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of another programmer, artist, designer, and sound designer. My responsibility within the team was to implement the various character abilities.
+Polar is a 3D platforming game made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of a programmer, artist, designer, and sound designer.
+
+- At 00:09, the jumping was made by adding velocity to the Y axis on the rigidbody of the character.
+
+- At 00:18, the dash ability was created by adding force in the forward direction on the rigidbody. The dash also had a special property of only dashing through blue panels by changing the layer of the character to strictly dash through them.
+
+- Switching characters at 00:20 was created by swapping out the character model and the hair. The scripts of the abilities for the character were swapped out by disabling the scripts of the blue character and enabling the scripts of the red character.
+
+- The shoulder tackle ability at 00:23 is very similar to the dash ability the blue character with the exception that the red character's layer is changed to strictly collide with the crates with the red character's rigidbody.
+
+- The grabbing ability at 00:32 was created by a trigger collider and a key press that parents the picked up object onto the character's hand.
+
+- The throwing ability at 00:34 used add force on the rigidbody of the picked up object in the forward direction of the character and unchilded the picked up object.
 
 
 ## Calor
@@ -49,7 +61,21 @@ Unity WebGL Player: [Link](https://tony-luu.github.io/Calor/){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Calor-Sourcecode){:target="_blank"}\
 Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Calor%20Problems%20and%20Solutions.md){:target="_blank"}
 
-Calor is a 2D game project made during the Winter GameJam 2020 hosted from a Discord community called Game Dev London which started as a games development meetup in London many years ago. This gamejam lasted from 27th November to 6th December so the event lasted for an entire week and approximately had 40 hours to create a game. The theme for this was called "Warmth" so I teamed up in a group of 6 (including myself) to brainstorm various ideas associated with the word to generate interesting ideas. My responsbility in the team was to implement gameplay mechanics, controls, and include all of the art and sound assets my team created for this game.
+Calor is a 2D game project made during the Winter GameJam 2020 hosted from a Discord community called Game Dev London which started as a games development meetup in London many years ago. This gamejam lasted for approximately 40 hours throughout one week. The theme for the gamejam was called "Warmth" so I teamed up in a group of 5 to brainstorm various ideas associated with the word to generate interesting ideas. 
+
+- The animation for the character at 00:07 was created using the animation tool in Unity to animate the walking animation frame by frame then I had to use the animator to create transitions to trigger that animation. I had to create a Finite State machine to manage the conditions for all of the animations shown in the video such as: jumping, landing, swinging the torch, dragging and pushing the crate. I also included sound effects for the walking and jumping animations.
+
+- At 00:14, I created the torch by using a particle effect attached with a fire texture on it.
+
+- I coded an audio player to change the background music at 00:22 whenever the player enters a new area.
+
+- The campfire being lit by the character's torch swing at 00:30 is a checkpoint so when the character dies, it will respawn at that point.
+
+- The hanging vine being set alight at 00:46 was made by a particle collision which triggers a flaming particle effect which follows the burning vine. The vine shrinks while the flaming particle effect follows the direction of the vine which melts the icicles that makes them fall down into the dark pit. This provides a platform for the player to reach the other side of the area.
+
+- At 1:01, the character's torch swing melts the block of ice was made by using particle collision which reduces the scale of the ice blocks.
+
+- An ending video is played at 1:06 once the player reaches the end of the ice cave and loops back to the beginning of the game once the ending video finishes.
 
 
 ## Infinite Defender
