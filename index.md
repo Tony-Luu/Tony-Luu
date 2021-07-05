@@ -67,7 +67,16 @@ Unity WebGL Player: [Link](https://Tony-Luu.github.io/Infinite-Defender/){:targe
 Source Code: [Link](https://github.com/Tony-Luu/Infinite-Defender-Sourcecode){:target="_blank"}\
 Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Infinite%20Defender%20Problems%20and%20Solutions.md){:target="_blank"}
 
-Infinite Defender is a throwback to the old-fashioned arcade space-shooting games with a twist. Enemy waves are procedurally-generated so they spawn differently every time you play it. The waves continuously spawn until the player dies so survive as long as you can and earn a high score. This 2D project was made solo and it is intended for the Android devices and smartphones. This game involved a lot of design decisions and iterations as well as learning how to use maths functions to create a sine wave pattern movement and the circular motion for the enemy spaceships. The design iterations mostly consisted of gameplay rebalances and player experiences. Click on the link above this description to read on further.
+Infinite Defender is a throwback to the old-fashioned arcade space-shooting games with a twist. Enemy waves are procedurally-generated so they spawn differently every time you play it. The waves continuously spawn until the player dies so survive as long as you can and earn a high score. This 2D project was made solo and it is intended for the Android devices and smartphones. 
+
+- The moving and shooting at 00:06 was made to move the ship towards where the player has touched on the screen. If the player touched on the left side of the screen then the ship moves towards the left. If the player touched the right side of the screen then the ship moves towards the right.
+
+- The enemies spawning in at 00:13 had movement in a shape of an arc which was made by using a function from transform called RotateAround.
+
+- At 00:37, the enemies that move in a circular motion was achieved by using the Cosine and Sin math functions.
+
+- At 1:04, enemies have a small chance of dropping a random power-up that can boost the player's attributes such as: attack speed, movement speed, defense, shield up, and base health up. The ship icon with a shield around it coloured green is the shield up boost.
+
 
 <p align="center">
   <a href='https://play.google.com/store/apps/details?id=com.None.InfiniteDefender&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' target="_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height="100"/></a>
