@@ -124,7 +124,7 @@ Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/){:target="_blank
 Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode){:target="_blank"}\
 Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md){:target="_blank"}
 
-This project was made as my coursework for one of my modules. Nanobots is a 3rd person puzzle platforming game where the player has to traverse through the environment using nanobots. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, and sound in an unconventional way. I mainly used particle effects to represent the different functions of nanobots. The walkthrough for this game is at the link above this description.
+This project was made as my coursework for one of my modules. Nanobots is a 3rd person puzzle platforming game where the player has to traverse through the level using nanobots. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, and sound in an unconventional way. I used particle effects to represent the different functions of nanobots. The walkthrough for this game is at the link above this description.
 
 - At 00:03, I used a particle effect to collide with the destructible obstacle to reduce the size of it until they are destroyed.
 
