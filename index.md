@@ -26,7 +26,7 @@ Duration: 11/7/21 - 25/7/21
 </video>
 
 Unity WebGL Player: [Link](https://tony-luu.github.io/Armless/){:target="_blank"}\
-Download: [Link](https://www.dropbox.com/s/ijw5i0osr8hytuo/Armless%20PC%20Build.zip?dl=0)\
+Download: [Link](https://www.dropbox.com/s/ijw5i0osr8hytuo/Armless%20PC%20Build.zip?dl=0){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Game-Parade-Summer-2021/tree/main/Assets/TL_Scripts){:target="_blank"}
 
 ~~H~~armless is a first-person puzzle game made during the Game Parade Summer 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this gamejam was "One Time Use" and I teamed up with six other people composed of a programmer, two 3D artists, one 2D artist, and sound designer. The first week was creating the game and the second week was to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
