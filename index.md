@@ -4,7 +4,7 @@
 {% include index.html %}
 {% include social-media-links.html %}
 
-Hello there! Thanks for stopping by to check out my games porfolio. I am actively seeking a developer position at the moment so if you're interesting in what I can do then please check out my contacts and socials to discuss an opportunity with me. 
+Hello there! Thanks for stopping by to check out my games porfolio. I am actively seeking a developer position at the moment so if you're interested in my skills then please check out my contacts and socials to discuss an opportunity with me. 
 
 <br>
 <p align="center">
