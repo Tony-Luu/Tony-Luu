@@ -14,6 +14,24 @@ software such as RPG Maker 2000 and Game Maker. This got me into games developme
 because I have thoroughly enjoyed the freedom and expression of creating unique gameplay
 experiences.
 
+## ~~H~~armless
+Game Engine: Unity\
+Language: C#\
+Platform: PC and Web Browser\
+Duration: 11/7/21 - 25/7/21
+
+<video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
+  <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Armless%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
+  Your browser does not support HTML5 video.
+</video>
+
+Unity WebGL Player: [Link](https://tony-luu.github.io/Armless/){:target="_blank"}\
+Download: [Link](https://www.dropbox.com/s/ijw5i0osr8hytuo/Armless%20PC%20Build.zip?dl=0)\
+Source Code: [Link](https://github.com/Tony-Luu/Game-Parade-Summer-2021/tree/main/Assets/TL_Scripts){:target="_blank"}\
+
+~~H~~armless is a first-person puzzle game made during the Game Parade Summer 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this gamejam was "One Time Use" and I teamed up with six other people composed of a programmer, two 3D artists, one 2D artist, and sound designer. The first week was creating the game and the second week was to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
+
+
 ## Polar
 Game Engine: Unity\
 Language: C#\
@@ -31,7 +49,7 @@ Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/
 
 #### Note: Due to the project using Wwise Unity, it is incompatible with WebGL so therefore there is no WebGL build. Instead, a download link containing a PC build is provided for those who are interested in playing the game.
 
-Polar is a 3D platforming game made during the Games Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of a programmer, artist, designer, and sound designer.
+Polar is a 3D platforming game made during the Game Parade Spring 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this particular gamejam was "Strength lies in differences" and I teamed up with four other people composed of a programmer, artist, designer, and sound designer.
 
 - At 00:09, the jumping was made by adding velocity to the Y axis on the rigidbody of the character.
 
