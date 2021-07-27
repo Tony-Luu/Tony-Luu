@@ -31,6 +31,16 @@ Source Code: [Link](https://github.com/Tony-Luu/Game-Parade-Summer-2021/tree/mai
 
 ~~H~~armless is a first-person puzzle game made during the Game Parade Summer 2021 hosted from a Discord community called Games Jobs Live which is a games development community. The theme for this gamejam was "One Time Use" and I teamed up with six other people composed of a programmer, two 3D artists, one 2D artist, and sound designer. The first week was creating the game and the second week was to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
 
+- At 00:08, the detaching of arms was created by unparenting the arms from the player character.
+
+- The player character regains their arms from the barrel filled with extra limbs at 00:17.
+
+- At 01:13, the arms from the player character gets detached from the character and attached to the wooden beam by adding a hinge joint onto the detached arm.
+
+- The detached arms are capable of attaching to other detached arms by adding a hinge joint onto the arm at 01:20.
+
+- At 01:44, the player character holds onto the arm rope and swings on it by adding a hinge joint onto the character and jumps off the arm rope by removing the hinge joint.
+
 
 ## Polar
 Game Engine: Unity\
