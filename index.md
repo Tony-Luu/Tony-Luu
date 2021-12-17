@@ -17,6 +17,24 @@ experiences.
 The timestamps shown below the gameplay footage of my projects demonstrates the kind of gameplay I like to focus on developing and showcases my skills in Unity.
 
 
+## Slimy Situation
+Game Engine: Unity\
+Language: C#\
+Platform: PC and Web Browser\
+Duration: 14/11/21 - 21/11/21
+
+<video body="" controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
+  <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Slimy%20Situation%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
+  Your browser does not support HTML5 video.
+</video>
+
+Itch.io Page: [Link](https://tonyluu.itch.io/slimy-situation){:target="_blank"}\
+Source Code: [Link](https://github.com/Tony-Luu/Slimy-Situation-Sourcecode){:target="_blank"}
+
+Slimy Situation is a 2d pixel stealth game where the player has to navigate through the caves safely while avoiding the adventurers. This game was made during the Game Parade Fall 2021 hosted from a Discord community called Games Job Live which is a games development community. The first week was focused on creating the game and afterwards, we had 3 days to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
+
+- Throughout the video, I have implemented the controls and animation for the slime as well as the behaviours of the adventurers such as patrol routes, detecting the player, chasing the player, and returning to their patrol routes.
+
 
 ## ~~H~~armless
 Game Engine: Unity\
