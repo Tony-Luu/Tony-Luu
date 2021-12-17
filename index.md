@@ -17,7 +17,6 @@ experiences.
 The timestamps shown below the gameplay footage of my projects demonstrates the kind of gameplay I like to focus on developing and showcases my skills in Unity.
 
 
-
 ## Slimy Situation
 Game Engine: Unity\
 Language: C#\
@@ -184,32 +183,6 @@ This is a 2D adventure game where the player has to explore around the world to 
 - The doppelganger event at 1:11 had a sequence puzzle where you have to match the flashing symbols on the ground with the doppelganger in order. The doppelganger moves opposite of your character.
 
 - The combat at 1:26 is grid-based where the player has to move the character's attack range indicated by the red boxes onto the enemy to attack and defeat the monster.
-
-
-## Nanobots
-Game Engine: Unity\
-Language: C#\
-Platform: PC\
-Date of completion: 12/1/15
-
-<video controls="" controlslist="nodownload" oncontextmenu="return false" style="display: block; margin: 0 auto;" width="830">
-  <source src="https://github.com/Tony-Luu/HTML5-Videos/blob/master/Nanobots%20Gameplay%20Footage.mp4?raw=true" type="video/mp4"></source>
-  Your browser does not support HTML5 video.
-</video>
-
-Unity WebGL Player: [Link](https://tony-luu.github.io/Nanobots/){:target="_blank"}\
-Source Code: [Link](https://github.com/Tony-Luu/Nanobots-Sourcecode){:target="_blank"}\
-Walkthrough: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Nanobot%20Walkthrough.md){:target="_blank"}
-
-This project was made as my coursework for one of my modules. Nanobots is a 3rd person puzzle platforming game where the player has to traverse through the level using nanobots. My lecturer had a discussion about using dynamic elements such as particle effects, physics, textures, lights, and sound in an unconventional way. I used particle effects to represent the different functions of nanobots. The walkthrough for this game is at the link above this description.
-
-- At 00:03, I used a particle effect to collide with the destructible obstacle to reduce the size of it until they are destroyed.
-
-- At 00:48, the particle effect I have used has a different function called "Hook" which lets the player pull towards the hook. The cube object can be picked up and placed on buttons as a weight, block laser particles or used as an extra platform.
-
-- At 2:31, I used textures to implement this memory puzzle which randomly creates a sequence of flashing colours which the player must click on the correct sequence to progress through. The material for the flashing textures uses a normal map, a height map, and illumin properties to create the sequence of flashing colours.
-
-- At 2:52, the torch light uses a raycast that hits the invisible platform on the ground which decreases the transparency of the material on the platform.
 
 
 ## Lunar Odyssey
