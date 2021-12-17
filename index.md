@@ -32,7 +32,7 @@ Duration: 14/11/21 - 21/11/21
 Itch.io Page: [Link](https://tonyluu.itch.io/slimy-situation){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Slimy-Situation-Sourcecode){:target="_blank"}
 
-Slimy Situation is a 2d pixel stealth game where the player has to navigate through the caves safely while avoiding the adventurers. This game was made during the Game Parade Fall 2021 hosted from a Discord community called Games Job Live which is a games development community. The first week was focused on creating the game and afterwards, we had 3 days to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
+Slimy Situation is a 2d pixel stealth game where the player has to navigate through the caves safely while avoiding the adventurers. This game was made during the Game Parade Fall 2021 hosted from a Discord community called Games Job Live which is a games development community. The theme for the gamejam was "Leave Something Behind" and I teamed up with two people. The first week was focused on creating the game and afterwards, we had 3 days to polish the game such as tweaking the gameplay, fixing bugs, and adding sounds.
 
 - Throughout the video, I have implemented the controls and animation for the slime as well as the behaviours of the adventurers such as patrol routes, detecting the player, chasing the player, and returning to their patrol routes.
 
