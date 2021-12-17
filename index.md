@@ -29,7 +29,7 @@ Duration: 11/7/21 - 25/7/21
   Your browser does not support HTML5 video.
 </video>
 
-Itch.io Page: [Link](https://tonyluu.itch.io/armless)
+Itch.io Page: [Link](https://tonyluu.itch.io/armless){:target="_blank"}\
 Unity WebGL Player: [Link](https://tony-luu.github.io/Armless/){:target="_blank"}\
 Download: [Link](https://www.dropbox.com/s/ijw5i0osr8hytuo/Armless%20PC%20Build.zip?dl=0){:target="_blank"}\
 Source Code: [Link](https://github.com/Tony-Luu/Game-Parade-Summer-2021/tree/main/Assets/TL_Scripts){:target="_blank"}
@@ -58,7 +58,7 @@ Duration: 21/2/21 - 28/2/21
   Your browser does not support HTML5 video.
 </video>
 
-Itch.io Page: [Link](https://alixxir.itch.io/polar)
+Itch.io Page: [Link](https://alixxir.itch.io/polar){:target="_blank"}\
 Download: [Link](https://www.dropbox.com/s/but0b7fma4zblec/Polar%20PC%20Build.rar?dl=0)\
 Source Code: [Link](https://github.com/Tony-Luu/Polar-Sourcecode){:target="_blank"}\
 Problems and Solutions: [Link](https://github.com/Tony-Luu/Games-Portfolio/blob/gh-pages/Polar%20Problems%20and%20Solutions.md){:target="_blank"}
