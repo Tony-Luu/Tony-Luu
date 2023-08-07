@@ -5,13 +5,13 @@ $(document).ready(function(){
 	    
 	    /* Assign empty url value to the iframe src attribute when
 	    modal hide, which stop the video playing */
-	    $("#col-lg-8").on('hide.bs.modal', function(){
+	    $("#container").on('hide.bs.modal', function(){
 	        $("#footage").attr('src', '');
 	    });
 	    
 	    /* Assign the initially stored url back to the iframe src
 	    attribute when modal is displayed again */
-	    $("#col-lg-8").on('show.bs.modal', function(){
+	    $("#container").on('show.bs.modal', function(){
 	        $("#footage").attr('src', url);
 	    });
 	});
