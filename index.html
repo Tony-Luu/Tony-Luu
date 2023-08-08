@@ -10,7 +10,12 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
-        <script src="js/pauseonclosedmodal.js"></script>
+        <script>
+          $('.portfolio-modal').on('hide.bs.modal', function(e) {
+            var $v = $(e.delegateTarget).find('footage');
+            $v[0].pause();  // use [0] because jQuery returns a list
+          });
+        </script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
