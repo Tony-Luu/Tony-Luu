@@ -10,10 +10,13 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <script src="js/code.jquery.com_jquery-3.7.0.min"></script>
         <script>
-            $('#video').on('hide.bs.modal', function (event) {
-                document.getElementById('footage').pause();
-            });
+            $(document).ready(function() {
+                $('#video').on('hide.bs.modal', function (event) {
+                    document.getElementById('footage').pause();
+                });
+            });            
         </script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
