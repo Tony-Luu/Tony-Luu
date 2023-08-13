@@ -1,5 +1,7 @@
-$(document).ready(function() {
-    $("#portfolioModal7").on('hidden.bs.modal', function () {
-        document.getElementById('footage').pause();
+$(function(){
+    $('#portfolioModal7').modal({
+        show: false
+    }).on('hidden.bs.modal', function(){
+        $(this).find('footage')[0].pause();
     });
 });
