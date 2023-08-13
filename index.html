@@ -150,7 +150,7 @@
                         <div class="portfolio-item mx-auto" data-toggle="modal" data-target="#portfolioModal7">
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div><img class="img-fluid" src="assets/img/image.svg" alt="New Image"/>
+                            </div><img class="img-fluid" src="assets/img/Lunar Odyssey Title Preview.png" alt="New Image"/>
                         </div>
                     </div>
                 </div>
@@ -413,7 +413,7 @@
         <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" aria-labelledby="portfolioModal7" aria-hidden="true">
             <div class="modal-dialog modal-xl">
                 <div class="modal-content">
-                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-header border-0"><button class="btn-close" onclick="document.getElementById('footage').pause();" data-bs-dismiss="modal" aria-label="Close"></button></div>
                     <div class="modal-body text-center pb-5">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -427,10 +427,66 @@
                                         <div class="divider-custom-line"></div>
                                     </div>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/submarine.png" alt="..." />
+                                    <video controls="" video id="footage" width="640" height="480">
+                                        <source src="assets/videos/Lunar%20Odyssey%20Gameplay%20Footage.mp4">
+                                    </video>
                                     <!-- Portfolio Modal - Text-->
-                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
-                                    <button class="btn btn-primary" data-bs-dismiss="modal">
+                                    <table class="table table-sm table-borderless">
+                                      <tbody>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Game Engine: Unity</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Language: C#</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Platform: Android devices</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Date of completion: May 2015</td>
+                                        </tr>
+                                          <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Unity WebGL Player: <a href="https://tony-luu.github.io/Lunar-Odyssey/" class="link-primary" target="_blank">Link</a></td>
+                                        </tr>
+                                          <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">Source Code: <a href="https://github.com/Tony-Luu/Lunar-Odyssey-Sourcecode" class="link-primary" target="_blank">Link</a></td>
+                                        </tr>
+                                          </tbody>
+                                    </table>
+                                    <div class="d-flex align-items-center justify-content-center">
+                                        <p>
+                                            This game was created by 7 members for a group project during university. Lunar Odyssey is a 2D endless survival game where the player has to avoid obstacles created by the Greek gods. 
+                                            Use the mouse to drag the moon vertically up and down to control the ocean waves and drag the boat left to right would move the boat horizontally. 
+                                            I have used what I have learned from the module called Games Studio to implement obstacles by using Unity components such as:
+                                        </p>
+                                    </div>
+                                    <table class="table table-borderless">
+                                      <tbody>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The volcano spewing up fiery rocks at 0:49 had the rigidbody component attached to it to fall from the sky and collide with the ship which causes damage if it hits.</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The cyclops picking up the boulder and throwing it above himself at 1:40 uses the rigidbody component to animate the boulder being picked up and thrown at the ship would collide with the ship if it hits.</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The kraken's tentacle attack at 2:27 has both a collider and a rigidbody component which can cause damage if the tentacles hit the ship.</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The lightning cloud at spawned at 3:18 has a particle effect with a lightning texture attached to it which can collide with the ship.</td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <button class="btn btn-primary" onclick="document.getElementById('footage').pause();" data-bs-dismiss="modal">
                                         <i class="fas fa-xmark fa-fw"></i>
                                         Close Window
                                     </button>
