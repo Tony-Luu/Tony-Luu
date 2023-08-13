@@ -1,6 +1,5 @@
-$(document).ready(function() {
-           $(document).on('hide.bs.modal', function (event) {
-                 document.getElementById('footage').pause();
-		 document.getElementById('footage').currentTime = 0;
-           });
-      });
+$('.modal').on('hidden.bs.modal', function () {
+    $('video').each(function() {
+      this.player.pause();
+    });
+});
