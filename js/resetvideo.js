@@ -1,3 +1,3 @@
-$('.modal').on('hidden.bs.modal', function () {
+$("#portfolioModal7").on('hidden.bs.modal', function () {
     $('#footage').trigger('pause');
 });
