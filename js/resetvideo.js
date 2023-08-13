@@ -1,5 +1,5 @@
 $('.modal').on('hidden.bs.modal', function () {
-    $('video').each(function() {
+    $('footage').each(function() {
       this.player.pause();
     });
 });
