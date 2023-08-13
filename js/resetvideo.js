@@ -1,3 +1,4 @@
 $("#portfolioModal7").on('hidden.bs.modal', function () {
-    $('#footage').trigger('pause');
+    document.getElementById('footage').pause();
+    alert('The modal is now hidden.');
 });
