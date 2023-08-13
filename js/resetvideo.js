@@ -1,4 +1,4 @@
-$('.modal').on('hidden.bs.modal', function () {
+$(document).on('hidden.bs.modal', function () {
     $('footage').each(function() {
       this.player.pause();
     });
