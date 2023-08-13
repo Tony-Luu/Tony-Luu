@@ -1,5 +1,3 @@
 $(document).on('hidden.bs.modal', function () {
-    $('footage').each(function() {
-      this.player.pause();
-    });
+    document.getElementById("footage").pause();
 });
