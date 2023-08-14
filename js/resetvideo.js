@@ -2,7 +2,11 @@
   $(document).on('hidden.bs.modal', function (e) {
     
     var videoList = document.getElementsByTagName("video");
-    alert(videoList);
+    
+    jQuery.each(videoList, function(index, value)
+    {
+      alert("index", index, "value", value);
+    });
     
     var video7 = document.getElementById('footage7');
     video7.pause();
