@@ -1,7 +1,11 @@
 (function ($) {
   $(document).on('hidden.bs.modal', function (e) {
-    var video = document.getElementById('footage');
-    video.pause();
-    video.currentTime = 0;
+    var video7 = document.getElementById('footage7');
+    video7.pause();
+    video7.currentTime = 0;
+
+    var video6 = document.getElementById('footage6');
+    video6.pause();
+    video6.currentTime = 0;
   });
 })(jQuery);
