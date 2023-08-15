@@ -7,7 +7,7 @@
     {
       alert("index", index, "value", value);
     });
-    
+    alert(object[type^="video/"]);
     var video7 = document.getElementById('footage7');
     video7.pause();
     video7.currentTime = 0;
