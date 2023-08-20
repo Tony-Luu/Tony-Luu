@@ -597,14 +597,30 @@
                                     </table>
                                     <div class="d-flex align-items-center justify-content-center">
                                         <p>
-                                            Lorem Ipsum.
+                                            This was my first ever project for Twinkl Go when I first started. I worked with a Product Owner who was in charge of a section in Twinkl called the News Room which provides devliering news in a kid-friendly way.
+                                            I was provided with a resource specification document which explained to me what was required for this game such as having a 4x4 layout and number boxes from 1 to 4 to be dragged into the empty boxes on the screen.                                            
                                         </p>
                                     </div>
                                     <table class="table table-borderless">
                                       <tbody>
                                         <tr>
                                           <th scope="row"></th>
-                                          <td class="text-start">- Lorem Ipsum</td>
+                                          <td class="text-start">- The 4x4 grid was intialized as an array which stores information about the grid such as the position and number. The 2x2 mini-grid was postioned differently when the whole 4x4 grid was being generated.</td>
+                                        </tr>
+                                        <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The sudoku board is generated with numbers from 1 to 4, picking a random position in the mini-grids and checking if that box is a valid position to place that number. If not, 
+                                              then re-randomize a position in the board and check again if that box is valid to place a number.</td>
+                                        </tr>
+                                          <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- Once the numbers have been placed in the board, the algorithm checks if the current grid can be completed. If the grid can be completed then randomly remove most of the numbers.
+                                          If not, then remake the entire board.</td>
+                                        </tr>
+                                          <tr>
+                                          <th scope="row"></th>
+                                          <td class="text-start">- The reason for creating the algorithm this way is because the solution must be generated first before removing most of the numbers in the board. The algorithm must check beforehand if the
+                                              number generation has a solution. Otherwise, the sudoku puzzle is impossible to complete by the player. </td>
                                         </tr>
                                       </tbody>
                                     </table>
