@@ -1,4 +1,4 @@
-document.querySelectorAll('.video').forEach(function(vid) {
+document.querySelectorAll('.footagepreview').forEach(function(vid) {
   vid.onmouseover = function() {
     this.play();
   }
